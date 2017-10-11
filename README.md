@@ -23,4 +23,4 @@ Assignment (10 pts):
 | Shanglun Li | ShanglunLi | https://shanglunli.github.io/Repo-Demo/ |
 | Chase Rosendale | theace0296 | https://theace0296.github.io/Rosendale/ |
 | Hanna Gilson | hsgilson | <https://hsgilson.github.io/Demo-470/> |
-
+|Qinyue Li| qinyueli|<https://qinyueli.github.io/stat470example/>|
